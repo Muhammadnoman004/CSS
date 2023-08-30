@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: brown;
+}
+
+.nav{
+    background-color: white;
+    max-width: 800px;
+    margin-left: 500px;
+    margin-top: 20px;
+    height: 1100px;
+}
+nav{
+    position: relative;
+    left: 40px;
+    top: 30px;
+    background-color: black;
+    padding: 10px;
+    max-width: 700px;
+    max-height: 50px;
+}
+
+ul{
+    display: flex;
+    text-indent: 60px;
+    font-size: 25px;
+    list-style: none;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.head{
+    position: relative;
+    left: 150px;
+    top: 30px;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.photo{
+    position: relative;
+    top: 60px;
+    width: 698px;
+    height: 350px;
+}
+.para{
+    position: relative;
+    top: 40px;
+}
+
+.caption-one{
+    max-width: 220px;
+    position: relative;
+    top: 90px;
+}
+.cap-1{
+    position: relative;
+    top: 90px;
+}
+
+.caption-two{
+    max-width: 220px;
+    position: relative;
+    bottom: 95px;
+    left: 240px;
+}
+.cap-2{
+    position: relative;
+    bottom: 95px;
+    left: 240px;
+}
+
+.caption-three{
+    max-width: 220px;
+    position: relative;
+    left: 480px;
+    bottom: 278px;
+}
+.cap-3{
+    position: relative;
+    left: 480px;
+    bottom: 278px;
+}
+
+.caption-four{
+    max-width: 220px;
+    position: relative;
+    bottom: 250px;
+}
+.cap-4{
+    position: relative;
+    bottom: 250px;
+}
+
+.caption-five{
+    max-width: 220px;
+    position: relative;
+    left: 240px;
+    bottom: 415px;
+}
+.cap-5{
+    position: relative;
+    left: 240px;
+    bottom: 415px;
+}
+
+.caption-six{
+    max-width: 220px;
+    position: relative;
+    bottom: 580px;
+    left: 483px;
+}
+.cap-6{
+    position: relative;
+    bottom: 580px;
+    left: 485px;
+}
